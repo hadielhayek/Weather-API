@@ -35,7 +35,7 @@ class App extends Component {
        <div className="part2">
          < img src={storm} alt="storm" width="200" height="180"/>
          <h3>Rain</h3>
-         <h2 color="#030348">Temperature 10&#176;C to 11&#176;C</h2>
+         <h2>Temperature 10&#176;C to 11&#176;C</h2>
          <h4>Humidity&nbsp; &nbsp; 78% &nbsp; &nbsp;  pressure  &nbsp; &nbsp;1008.48</h4>
           </div>
           <div className="part3">
